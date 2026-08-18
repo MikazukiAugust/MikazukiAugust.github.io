@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+
+# Visual Studio user files
+*.user
+*.suo
+
+# Build / temporary files
+Debug/
+Release/
+x64/
+x86/
+
+# Operating system files
+.DS_Store
+Thumbs.db
